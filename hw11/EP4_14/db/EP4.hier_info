@@ -1,0 +1,7 @@
+|TOP
+out <= inst.DB_MAX_OUTPUT_PORT_TYPE
+rst => inst3.IN0
+clk => inst.CLK
+in => inst1.IN0
+
+

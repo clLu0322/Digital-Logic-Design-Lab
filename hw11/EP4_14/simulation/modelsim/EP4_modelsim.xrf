@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, G:/111-2/DLE/hw11/EP4_14/TOP.bdf
+source_file = 1, G:/111-2/DLE/hw11/EP4_14/db/EP4.cbx.xml
+design_name = TOP
+instance = comp, \out~output\, out~output, TOP, 1
+instance = comp, \clk~input\, clk~input, TOP, 1
+instance = comp, \in~input\, in~input, TOP, 1
+instance = comp, \rst~input\, rst~input, TOP, 1
